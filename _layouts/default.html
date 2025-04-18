@@ -1,1 +1,27 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="{{ '/' | relative_url }}">Accueil</a></li>
+        <li><a href="{{ '/apropos/' | relative_url }}">Apropos</a></li>
+        <li><a href="{{ '/publications/' | relative_url }}">Publications</a></li>
+	      <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+    <main>
+        {{ content }}
+    </main>
+    <footer>
+        <p>{{ site.footer_text }}</p>
+    </footer>
+</body>
+</html>
