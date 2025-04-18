@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+title: CNRS-TeaTime
+description: CNRS-TeaTime project
+
+header_pages:
+  - index.md
+  - apropos.md
+  - contact.md
