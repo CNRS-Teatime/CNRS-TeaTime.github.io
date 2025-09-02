@@ -16,7 +16,7 @@ L’ambition est de proposer des modalités d’alignement des connaissances bas
 chercheurs de différentes disciplines mobilisés sur le chantier scientifique de Notre-Dame de Paris. Cet effort de formalisation est indispensable pour comprendre la nature, les spécificités, et les relations qu’entretiennent ces connaissances dans leurs dimensions sémantiques, géométriques, temporelles et spatiales. Cette tâche est d’autant plus importante qu’elle permet d’étendre le potentiel de sémantisation du corpus en faisant émerger de nouvelles connexions entre connaissances et données dans un contexte pluridisciplinaire.
 Une partie du travail s’est notamment concentrée sur le cas particulier des hypothèses de restitution d’états disparus, dont les rendus réalistes résultants tendent à occulter le travail scientifique sous-jacent sans constituer pour autant une documentation véritablement réutilisable. Nous avons proposé un cadre conceptuel permettant d’une part de structurer et rendre explicite l’argumentaire sous-jacent, et d’autre part de versionner la connaissance afin de tracer et interroger l’évolution des hypothèses établies.
 
-![Trajectoire du claveau N1A à travers les hypothèses de reconstruction successives](./media/anastylose.png "© Guillem et al, 2024.")
+![Trajectoire du claveau N1A à travers les hypothèses de reconstruction successives](../media/anastylose.png "© Guillem et al, 2024.")
 
 ### Caractérisation des relations sémantico-spatiales et visualisation multidimensionnelle
 
