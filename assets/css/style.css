@@ -83,6 +83,10 @@ main ul li {
     margin-bottom: 0.5rem;
 }
 
+main img {
+  max-width: 600px;
+}
+
 /* Footer Styles */
 footer {
     background: #333;
