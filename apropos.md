@@ -17,6 +17,7 @@ chercheurs de différentes disciplines mobilisés sur le chantier scientifique d
 Une partie du travail s’est notamment concentrée sur le cas particulier des hypothèses de restitution d’états disparus, dont les rendus réalistes résultants tendent à occulter le travail scientifique sous-jacent sans constituer pour autant une documentation véritablement réutilisable. Nous avons proposé un cadre conceptuel permettant d’une part de structurer et rendre explicite l’argumentaire sous-jacent, et d’autre part de versionner la connaissance afin de tracer et interroger l’évolution des hypothèses établies.
 
 ![Trajectoire du claveau N1A à travers les hypothèses de reconstruction successives](../media/anastylose.png "© Guillem et al, 2024.")
+
 *© Guillem et al, 2024.*
 
 ### Caractérisation des relations sémantico-spatiales et visualisation multidimensionnelle
@@ -24,6 +25,7 @@ Une partie du travail s’est notamment concentrée sur le cas particulier des h
 L'information spatiale est une composante transversale de la collection de métadonnées et de paradonnées du corpus de Notre-Dame, et son intégration s’avère cruciale tant pour l'archivage que l'interrogation et l'analyse. Au-delà des informations usuelles de localisation et de géométrie, l’expression des relations topologiques et méréologiques nécessite une sémantique particulière de l’espace. Dans cet axe, nous nous appuyons sur le cadre conceptuel défini dans l’axe 1 pour aborder les enjeux d’exploration de corpus et de navigation dans un espace nD. L’ambition est d’offrir aux acteurs impliqués une entrée croisée par la sémantique, l’espace et le temps sur les ressources disponibles.
 
 ![Définition d'un environnement de visualisation nD](../media/nDvisualization.png "© Abergel, V., Roussel, R., 2024.")
+
 *© Abergel, V., Roussel, R., 2024.*
 
 ### Réplicabilité, reproductibilité
